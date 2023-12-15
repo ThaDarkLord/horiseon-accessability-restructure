@@ -20,4 +20,4 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![project result](./assets/images/01-html-css-git-homework-demo.png)
 
-add deployed link here:
+link to deployed page: https://thadarklord.github.io/horiseon-accessability-restructure
